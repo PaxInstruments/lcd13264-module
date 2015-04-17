@@ -1,2 +1,24 @@
-# lcd13264-module
-The is a PCB that rests against the Pax Instruments 132x64 graphic LCD. The LCD is still able to snap into another 1.6 mm PCB.
+# Pax Instruments
+# LCD13264-module
+
+![image](Resources/TemplateModule.png)  
+[Pax Instruments Template Module](<link to store page>)
+
+## Overview
+The Pax Instruments LCD13264-module is a breakout shield for the LCD23164 graphic LCD.
+
+## Repository Contents
+- __Datasheets__ - Datasheets for relevant components and parts
+- __Electronics__ - All PCB and schematic design files
+- __Enclosure__ - Enclosure 3D design files
+- __Firmware__ - Firmware, libraries, and examples
+- __Production__ - Manufacturing resources
+- __Resources__ - Other resources
+
+## Product Versions
+
+
+## License Information
+```
+Place the license statement here
+```
