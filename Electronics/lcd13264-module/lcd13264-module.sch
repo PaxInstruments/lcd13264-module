@@ -1901,14 +1901,14 @@ Basic small signal diode good up to 200mA. SMB footprint. Common part #: BAS16</
 <vertex x="-5.5" y="-3.87"/>
 <vertex x="-5.3" y="-3.47"/>
 </polygon>
-<rectangle x1="-8.9" y1="-1.1" x2="-7.1" y2="1.1" layer="29" rot="R180"/>
-<rectangle x1="7.1" y1="-1.1" x2="8.9" y2="1.1" layer="29" rot="R180"/>
 <rectangle x1="-9.3" y1="-2.7" x2="-7.1" y2="1.1" layer="1"/>
-<rectangle x1="-9.3" y1="-1.1" x2="-7.1" y2="1.1" layer="31"/>
 <rectangle x1="7.1" y1="-2.7" x2="9.3" y2="1.1" layer="1"/>
-<rectangle x1="7.1" y1="-1.1" x2="9.3" y2="1.1" layer="31"/>
 <wire x1="-8.295" y1="-2.27" x2="-7.795" y2="-2.27" width="0.2032" layer="51"/>
 <wire x1="7.795" y1="-2.27" x2="8.295" y2="-2.27" width="0.2032" layer="51"/>
+<rectangle x1="-9.4" y1="-2.8" x2="-7" y2="1.2" layer="29"/>
+<rectangle x1="-9.3" y1="-2.7" x2="-7.1" y2="1.1" layer="31"/>
+<rectangle x1="7" y1="-2.8" x2="9.4" y2="1.2" layer="29"/>
+<rectangle x1="7.1" y1="-2.7" x2="9.3" y2="1.1" layer="31"/>
 </package>
 <package name="SPARKFUN-DIGITALIC_SPARKFUN-DIGITALIC_QFN-44-NOPAD">
 <wire x1="3.1" y1="-3.5" x2="3.5" y2="-3.5" width="0.2032" layer="21"/>
